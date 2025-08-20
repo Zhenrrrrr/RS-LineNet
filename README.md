@@ -1,2 +1,2 @@
 # RS-LineNet
-# Here are the module codes and network structures proposed in the paper.
+# Here are stored the module codes proposed in the thesis, their network structures, and some datasets.
